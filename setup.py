@@ -28,7 +28,7 @@ install_requires = [
     'requests>=2.9.1',
     'better_exceptions==0.1.7',
     'Bunch==1.0.1',
-    'Flask-SQLAlchemy==2.2',
+    'Flask-SQLAlchemy==2.4.0',
     'cloudaux>=1.2.0',
     'Flask==1.0.2',
     'Flask-RESTful==0.3.5',
